@@ -1,0 +1,3 @@
+[submodule "wdl/tasks"]
+	path = wdl/tasks
+	url = git@github.com:dockstore-testing/wdl-humanwgs-child.git
